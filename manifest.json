@@ -1,0 +1,50 @@
+{
+  "version": "1",
+  "profile": {
+    "macro": {
+      "items": [
+        {
+          "payload": "macro-PPT LIVE 1.js",
+          "type": "zip",
+          "id": "PPT LIVE 1",
+          "meta": "active"
+        }
+      ]
+    },
+    "roomcontrol": {
+      "items": [
+        {
+          "payload": "Live.xml",
+          "type": "zip",
+          "id": "Live"
+        }
+      ]
+    },
+    "custom-icon": {
+      "items": [
+        {
+          "payload": "icon-c27935ab5e72f49c16669aa500ae31f2850be824f19461afeb6a5b8b2213b3a6.png",
+          "type": "zip",
+          "id": "c27935ab5e72f49c16669aa500ae31f2850be824f19461afeb6a5b8b2213b3a6"
+        },
+        {
+          "payload": "icon-2c6f70275e0cbb1fa3b6104eb771a0de0940a90765f61078afe60984bc8e6e68.png",
+          "type": "zip",
+          "id": "2c6f70275e0cbb1fa3b6104eb771a0de0940a90765f61078afe60984bc8e6e68"
+        },
+        {
+          "payload": "icon-5cd178415aff7c5bd11754fb2590a5c1894c301687526fc77024c988581b6e7f.png",
+          "type": "zip",
+          "id": "5cd178415aff7c5bd11754fb2590a5c1894c301687526fc77024c988581b6e7f"
+        },
+        {
+          "payload": "icon-95a0011568a8fa4825a91cae21aed18518ddc0d836c0d784102eee065f22272e.png",
+          "type": "zip",
+          "id": "95a0011568a8fa4825a91cae21aed18518ddc0d836c0d784102eee065f22272e"
+        }
+      ]
+    }
+  },
+  "profileName": "backup-SEPF04A02897CB3-20220801-0949",
+  "generatedAt": "20220801-0949"
+}

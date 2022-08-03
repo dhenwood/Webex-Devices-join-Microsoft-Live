@@ -1,0 +1,13 @@
+<Extensions><Version>1.9</Version><Panel>
+    <Order>2</Order>
+    <PanelId>Live</PanelId>
+    <Origin>local</Origin>
+    <Location>HomeScreen</Location>
+    <Icon>Custom</Icon>
+    <Name>PowerPoint Live</Name>
+    <ActivityType>Custom</ActivityType>
+    <CustomIcon>
+      <Id>2c6f70275e0cbb1fa3b6104eb771a0de0940a90765f61078afe60984bc8e6e68</Id>
+    </CustomIcon>
+  </Panel>
+  </Extensions>
